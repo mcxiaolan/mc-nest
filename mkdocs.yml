@@ -17,15 +17,15 @@ theme:
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default 
-      primary: custom
-      accent: custom
+      primary: MD_Green
+      accent: MD_Green
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: custom
-      accent: custom
+      primary: MD_Green
+      accent: MD_Green
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
@@ -45,3 +45,5 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+extra_css:
+  - stylesheets/color.css
