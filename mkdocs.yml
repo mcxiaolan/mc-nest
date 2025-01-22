@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: 岚天方块窝
+site_url: https://mc.ltya.top
+theme:
+  name: material
