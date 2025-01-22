@@ -40,6 +40,9 @@
 --
 
 [Download](./assets/files/Custom%20Skin%20Pack%20Template%20-%20Normal.zip)
+```
+SHA-256: 53f96d59046fbdeae160a0b1792af83cd39bc46bccbd4cae7f06f58eb21efe56
+```
 
 网站推荐
 --
