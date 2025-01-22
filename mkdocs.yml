@@ -1,11 +1,6 @@
 site_name: 岚天方块窝
 site_url: https://mc.ltya.top
 repo_url: https://github.com/mcxiaolan/mc-nest
-plugins:
-  - social:
-      cards_layout_options:
-        font_family: Noto Sans SC
-
 theme:
   name: material
   language: zh
