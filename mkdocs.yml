@@ -28,6 +28,7 @@ theme:
     - search.suggest
     - search.highlight
     - navigation.tabs
+    - toc.integrate
 plugins:
   - tags
   - search
