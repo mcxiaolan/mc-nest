@@ -19,7 +19,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
-  logo: assets/icon.png
+  logo: assets/MINECRAFT.png
   favicon: assets/favicon.ico
   features:
     - header.autohide
