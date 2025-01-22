@@ -9,19 +9,20 @@ theme:
   name: material
   language: zh
   palette:
-    primary: green
-    accent: green
     - media: "(prefers-color-scheme)"
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default 
+      primary: green
+      accent: green
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      accent: green
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
@@ -33,6 +34,7 @@ theme:
     - navigation.tabs
     - navigation.top
     - toc.integrate
+    - content.code.copy
 plugins:
   - tags
   - search
