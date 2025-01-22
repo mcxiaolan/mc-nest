@@ -3,6 +3,7 @@ site_url: https://mc.ltya.top
 repo_url: https://github.com/mcxiaolan/mc-nest
 theme:
   name: material
+  locale: zh
   language: zh
   palette:
     - media: "(prefers-color-scheme)"
@@ -25,3 +26,7 @@ theme:
     - header.autohide
 plugins:
   - tags
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences

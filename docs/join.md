@@ -1,9 +1,9 @@
-# 加入我们的 Minecraft BE 服务器
+# 加入服务器
 ## 在开始前
 各位玩家们好，小服务器是很难生存的，不仅会面临病毒入侵、外挂黑服，还会遭遇 DDoS 攻击，甚至是 UDP 洪水攻击。  
 恳请各位技术人员手下留情！
 
-!!! tip
+!!! note "小服配置"
 
     CPU: Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz  
     RAM: 8.0 GB DDR3  
@@ -11,7 +11,7 @@
     Bandwidth (IPv4) : Natfrp 湖南长沙白银 VIP 节点  
     Bandwitch (IPv6) : 80 Mbps
   
-采用 [LeviLamina](https://levilamina.liteldev.com/zh/) 作为服务器核心，在保证原版特性的同时增强安全。
+采用 [LeviLamina](https://lamina.levimc.org/zh/) 作为服务器核心，在保证原版特性的同时增强安全。
 
 目前服务器支持的游戏版本为 `1.21.1x`
 
