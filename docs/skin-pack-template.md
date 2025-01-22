@@ -61,3 +61,5 @@ SHA-256: 53f96d59046fbdeae160a0b1792af83cd39bc46bccbd4cae7f06f58eb21efe56
     - [LittleSkin](https://littleskin.cn/skinlib/)
 - [JSON语法](https://www.json.cn)
 - [中文Minecraft Wiki](https://zh.minecraft.wiki)
+
+> 如果上面没有你需要的，请[点这里](https://b.ltya.top/?q=5oCO5LmI5L2/55So5pCc57Si5byV5pOO)或[这里](https://bd.ltya.top/?q=5oCO5LmI5L2/55So5pCc57Si5byV5pOO)
