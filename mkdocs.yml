@@ -3,7 +3,7 @@ site_url: https://mc.ltya.top
 repo_url: https://github.com/mcxiaolan/mc-nest
 plugins:
   - social:
-    cards_layout_options:
+      cards_layout_options:
         font_family: Noto Sans SC
 
 theme:
