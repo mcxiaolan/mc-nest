@@ -1,9 +1,11 @@
 site_name: 岚天方块窝
 site_url: https://mc.ltya.top
 repo_url: https://github.com/mcxiaolan/mc-nest
+nav:
+  - 欢迎: index.md
+  - 加入服务器: join.md
 theme:
   name: material
-  locale: zh
   language: zh
   palette:
     - media: "(prefers-color-scheme)"
@@ -25,6 +27,7 @@ theme:
   features:
     - search.suggest
     - search.highlight
+    - navigation.tabs
 plugins:
   - tags
   - search
