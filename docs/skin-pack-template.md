@@ -1,4 +1,3 @@
-# MCBE 自定义皮肤包模板
 <h1 align="center">
   <img src="/assets/img/resource_logo.png" width="1024" height="1024" />
   MCBE 自定义皮肤包模板
