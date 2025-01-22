@@ -23,3 +23,5 @@ theme:
   favicon: assets/favicon.ico
   features:
     - header.autohide
+plugins:
+  - tags
