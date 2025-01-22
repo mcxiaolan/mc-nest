@@ -23,9 +23,11 @@ theme:
   logo: assets/logo.png
   favicon: assets/favicon.ico
   features:
-    - header.autohide
+    - search.suggest
+    - search.highlight
 plugins:
   - tags
+  - search
 markdown_extensions:
   - admonition
   - pymdownx.details
