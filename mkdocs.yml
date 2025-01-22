@@ -9,6 +9,8 @@ theme:
   name: material
   language: zh
   palette:
+    primary: green
+    accent: green
     - media: "(prefers-color-scheme)"
       toggle:
         icon: material/brightness-auto
