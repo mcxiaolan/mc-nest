@@ -5,11 +5,13 @@ repo_url: https://github.com/mcxiaolan/mc-nest
 nav:
   - 欢迎: index.md
   - 服务器:
+    - 岚天生存服: server/index.md
     - 加入服务器: server/join.md
     - 服务器状态: server/status.md
     - 白名单: server/whitelist.md
   - 自定义披风模板: skin-pack-template.md
   - 支持我们: donate.md
+
 theme:
   name: material
   language: zh
@@ -41,6 +43,7 @@ theme:
     - navigation.top
     - toc.integrate
     - content.code.copy
+
 plugins:
   - tags
   - search

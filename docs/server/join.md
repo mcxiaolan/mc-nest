@@ -10,8 +10,6 @@
     Network: NAT IPv4 & IPv6  
     Bandwidth (IPv4) : Natfrp 湖南长沙白银 VIP 节点  
     Bandwitch (IPv6) : 80 Mbps
-  
-采用 [LeviLamina](https://lamina.levimc.org/zh/) 作为服务器核心，在保证原版特性的同时增强安全。
 
 目前服务器支持的游戏版本为 `1.21.50.x`
 
@@ -46,7 +44,3 @@
 已舍弃 Microsoft Forms.  
 请加入 QQ 群: 735517229  
 按照群昵称相关格式进行修改昵称，然后@在线管理人员。
-
-## 其他
-
-* [支持我们 (捐赠)](./donate.md)
