@@ -33,5 +33,5 @@
 </script>
 
 ## IPv4 (湖南长沙)
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="195px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=cs-v4.play.ltya.top&port=19100&dark=true&join_open=true"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="182px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=cs-v4.play.ltya.top&port=19100&dark=true&join_open=true"></iframe>
 
