@@ -1,7 +1,5 @@
 # 服务器状态
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="195px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=cs-v4.play.ltya.top&port=19100&dark=true&join_open=true"></iframe>
-
+## IPv6
 <div id="server-status"></div>
 <script>
         async function fetchServerStatus() {
@@ -10,9 +8,8 @@
                 const data = await response.json();
                 
                 let serverStatus = `
-                    <p><strong>IP 地址:</strong> ${data.ip}</p>
+                    <p><strong>IP 地址:</strong> play.ltya.top</p>
                     <p><strong>端口:</strong> ${data.port}</p>
-                    <p><strong>服务器名称:</strong> ${data.hostname}</p>
                     <p><strong>服务器状态:</strong> ${data.online ? '在线' : '离线'}</p>
                 `;
                 
@@ -34,3 +31,7 @@
 
         fetchServerStatus();
     </script>
+
+## IPv4 (湖南长沙)
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="195px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=cs-v4.play.ltya.top&port=19100&dark=true&join_open=true"></iframe>
+
