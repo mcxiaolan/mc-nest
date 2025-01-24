@@ -37,7 +37,7 @@
 
 ## IPv4 (湖南长沙)
 
-> 从 [BlackBE云黑](https://blackbe.work) 提供的 [MCBE-Server-Motd](https://motdbe.blackbe.work/iframe.html?ip=cs-v4.play.ltya.top&port=19100&dark=true&join_open=true) 获取。
+> 从 [BlackBE云黑](https://blackbe.work) 提供的 [MCBE-Server-Motd](https://motdbe.blackbe.work/iframe.html?ip=v4.play.ltya.top&port=19132&dark=true&join_open=true) 获取。
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="195px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=cs-v4.play.ltya.top&port=19100&dark=true&join_open=true"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500px" height="195px" scrolling=no src="//motdbe.blackbe.work/iframe.html?ip=v4.play.ltya.top&port=19132&dark=true&join_open=true"></iframe>
 
