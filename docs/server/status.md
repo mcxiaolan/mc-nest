@@ -2,6 +2,8 @@
 ## IPv6
 > 从 [Minecraft Server Status](https://mcsrvstat.us/bedrock/play.ltya.top) 的 [API](https://api.mcsrvstat.us/bedrock/3/play.ltya.top) 获取。
 
+我们建议优先使用 IPv6 来连接服务器。[查看您是否拥有 IPv6 地址](https://ipw.cn)
+
 <div id="server-status"></div>
 <script>
     async function fetchServerStatus() {
