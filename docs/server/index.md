@@ -1,7 +1,11 @@
-<h1 align="center">岚天方块窝
-  <img src="https://imgcdn.boochi.cn/i/2025/01/23/679244390f1bf.webp">
+<h1 align="center">
+  <img src="https://imgcdn.boochi.cn/i/2025/01/23/679244390f1bf.webp">岚天方块窝
 </h1>
 
-一个添加了便民插件的、可获得成就的基岩版生存服务器，由 [LeviLamina](https://lamina.levimc.org/zh/) 驱动。
+> 一个添加了便民插件的、可获得成就的基岩版生存服务器，由 [LeviLamina](https://lamina.levimc.org/zh/) 驱动。
 
-[支持我们 (捐赠)](/donate/)
+## 发展历程
+* 自 2022 年，我们就开始尝试开 Minecraft 基岩版服务器了，当时还只是与岚天呀的好朋友们游玩。
+* 直到 2023 年 8 月 11 日，我们开始在哔哩哔哩公开宣传，并正式命名服务器名称为——岚天生存服。
+* 可是在 2024 年暑假期间，Mojang 不想提供 pdb 文件，导致 LeviLamina 无法更新服务端版本。
+* 虽然 Mojang 最后度假回来后还是给但不公开 pdb，但是 LL 大更新后许多插件需要重写，最终服务器在 2025 年又卷土重来，并更改了服务器名称。
