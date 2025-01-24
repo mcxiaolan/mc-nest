@@ -45,7 +45,7 @@
 <https://docs.qq.com/form/page/DR3F1amVhRm56dVpH>
 
 【腾讯文档】白名单公示  
-<https://docs.qq.com/sheet/DR1F2Y0hBUkZDWFJY?tab=6ra35q>
+<https://docs.qq.com/sheet/DR0R0TmdtaXRSWEtU?tab=khnok6>
 
 请加入 QQ 群: 735517229  
 按照群昵称相关格式进行修改昵称，可以更方便交流哦。
