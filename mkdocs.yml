@@ -8,7 +8,7 @@ nav:
     - 岚天方块窝: server/index.md
     - 加入服务器: server/join.md
     - 服务器状态: server/status.md
-    - 白名单: server/whitelist.md
+    - 封禁名单: server/banlist.md
   - 自定义披风模板: skin-pack-template.md
   - 支持我们: donate.md
 
