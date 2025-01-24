@@ -41,6 +41,11 @@
 **我们保留收集必要信息和对规则的修改权利。**
 
 ## 加入
-已舍弃 Microsoft Forms.  
+【腾讯文档】加入 岚天方块窝  
+<https://docs.qq.com/form/page/DR3F1amVhRm56dVpH>
+
+【腾讯文档】白名单公示  
+<https://docs.qq.com/sheet/DR1F2Y0hBUkZDWFJY?tab=6ra35q>
+
 请加入 QQ 群: 735517229  
-按照群昵称相关格式进行修改昵称，然后@在线管理人员。
+按照群昵称相关格式进行修改昵称，可以更方便交流哦。
