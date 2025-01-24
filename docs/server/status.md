@@ -35,7 +35,7 @@
     fetchServerStatus();
 </script>
 
-## IPv4 (湖南长沙)
+## IPv4 (江苏南京)
 
 > 从 [BlackBE云黑](https://blackbe.work) 提供的 [MCBE-Server-Motd](https://motdbe.blackbe.work/iframe.html?ip=v4.play.ltya.top&port=19132&dark=true&join_open=true) 获取。
 
