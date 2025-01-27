@@ -7,9 +7,7 @@
 
     CPU: Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz  
     RAM: 8.0 GB DDR3  
-    Network: NAT IPv4 & IPv6  
-    Bandwidth (IPv4) : Natfrp 湖南长沙白银 VIP 节点  
-    Bandwitch (IPv6) : 80 Mbps
+    Network: NAT IPv4 & IPv6
 
 目前服务器支持的游戏版本为 `1.21.50.x`
 
