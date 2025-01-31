@@ -39,11 +39,15 @@
 **我们保留收集必要信息和对规则的修改权利。**
 
 ## 加入
+请加入 QQ 群: 735517229  
+按照群昵称相关格式进行修改昵称，可以更方便交流哦。
+
 【腾讯文档】加入 岚天方块窝（复制到 QQ 聊天框并发送，点击后可以免登录）  
-<https://docs.qq.com/form/page/DR3F1amVhRm56dVpH>
+<https://docs.qq.com/form/page/DR3F1amVhRm56dVpH>\
+
+服务器 IP 可以在[服务器状态](https://mc.ltya.top/server/status/)找到。
 
 【腾讯文档】白名单公示  
 <https://docs.qq.com/sheet/DR0R0TmdtaXRSWEtU?tab=khnok6>
 
-请加入 QQ 群: 735517229  
-按照群昵称相关格式进行修改昵称，可以更方便交流哦。
+
