@@ -14,6 +14,7 @@
             let serverStatus = `
                     <strong>IP 地址:</strong> play.ltya.top<br>
                     <strong>端口:</strong> ${data.port}<br>
+                    <strong><a href="minecraft:?addExternalServer=岚天方块窝(推荐)|play.ltya.top:19132">点击快速添加服务器</a></strong><br>
                     <strong>服务器状态:</strong> ${data.online ? '在线' : '离线'}<br>
                 `;
 
