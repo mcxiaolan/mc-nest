@@ -43,7 +43,7 @@
 按照群昵称相关格式进行修改昵称，可以更方便交流哦。
 
 【腾讯文档】加入 岚天方块窝（复制到 QQ 聊天框并发送，点击后可以免登录）  
-<https://docs.qq.com/form/page/DR3F1amVhRm56dVpH>\
+<https://docs.qq.com/form/page/DR3F1amVhRm56dVpH>
 
 服务器 IP 可以在[服务器状态](https://mc.ltya.top/server/status/)找到。
 
