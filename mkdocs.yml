@@ -5,7 +5,7 @@ repo_url: https://github.com/mcxiaolan/mc-nest
 nav:
   - 欢迎: index.md
   - 服务器:
-    - 岚天方块窝: server/index.md
+    - 岚风集: server/index.md
     - 加入服务器: server/join.md
     - 服务器状态: server/status.md
     - 封禁名单: server/banlist.md
