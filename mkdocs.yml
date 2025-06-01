@@ -3,7 +3,7 @@ site_url: https://mc.ltya.top
 repo_name: mcxiaolan/mc-nest
 repo_url: https://github.com/mcxiaolan/mc-nest
 nav:
-  - 欢迎: index.md
+  - index.md
   - 服务器:
     - 岚风集: server/index.md
     - 加入服务器: server/join.md
@@ -49,6 +49,8 @@ theme:
 plugins:
   - tags
   - search
+  - blog
+      blog_dir: recommend/resource_packs/
 markdown_extensions:
   - admonition
   - pymdownx.details
