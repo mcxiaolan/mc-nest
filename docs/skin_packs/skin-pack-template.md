@@ -43,23 +43,3 @@
 ```
 SHA-256: 53f96d59046fbdeae160a0b1792af83cd39bc46bccbd4cae7f06f58eb21efe56
 ```
-
-网站推荐
---
-
-- 更多披风:
-  - `全球`
-    - [SkinMC Capes](https://skinmc.net/capes)
-  - `中国`
-    - [LittleSkin Cape](https://littleskin.cn/skinlib?filter=cape&sort=likes&page=1/)
-
-- 更多皮肤:
-  - `全球`
-    - [SkinMC](https://skinmc.net)
-    - [NameMC](https://namemc.com)
-  - `中国`
-    - [LittleSkin](https://littleskin.cn/skinlib/)
-- [JSON语法](https://www.json.cn)
-- [中文Minecraft Wiki](https://zh.minecraft.wiki)
-
-> 如果上面没有你需要的，请[点这里](https://b.ltya.top/?q=5oCO5LmI5L2/55So5pCc57Si5byV5pOO)或[这里](https://bd.ltya.top/?q=5oCO5LmI5L2/55So5pCc57Si5byV5pOO)

@@ -9,9 +9,11 @@ nav:
     - 加入服务器: server/join.md
     - 服务器状态: server/status.md
     - 封禁名单: server/banlist.md
-  - 资源推荐:
-    - 资源推荐: recommend/index.md
-  - 自定义披风模板: skin-pack-template.md
+  - 资源推荐: recommend/index.md
+  - 自定义披风模板: 
+    - 自定义披风模板: skin_packs/index.md
+    - Custom 改法（推荐）: skin_packs/custom-template.md 
+    - Persona 改法: skin_packs/skin-pack-template.md
   - 支持我们: donate.md
 
 theme:
