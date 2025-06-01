@@ -5,7 +5,10 @@ categories:
 ---
 
 # Bare Bones
+![Cover](https://media.forgecdn.net/attachments/1155/293/cherry-png.png)
 Bare Bones 是一款材质包，旨在将您的世界和默认的 Minecraft 材质融入其“基本”元素。它简洁而充满活力，使用起来充满乐趣，并能让您的 Minecraft 世界看起来色彩缤纷！
+
+<!-- more -->
 
 ## 截图
 ![Image1](https://media.forgecdn.net/attachments/1155/291/ancient_city-png.png)
