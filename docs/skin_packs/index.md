@@ -1,13 +1,13 @@
-# 自定义披风模板
 ## 注意事项
 !!! warning "注意"
 
-    以下所有方式都需要修改游戏源文件。
-    对于 Android 系统，修改安装包会导致签名发生变化。
-    编写 json 文件时，时刻注意你的输入法是否处于英文模式。
+    以下所有方式都需要修改游戏源文件。  
+    对于 Android 系统，修改安装包会导致签名发生变化。  
+    编写 json 文件时，时刻注意你的输入法是否处于英文模式。  
     善用格式化，可以帮助你定位语法错误。
 
 以下是一般情况下要修改的位置：
+
 * Android: mc.apk/assets/skin_packs/
 * Windows: C:\Program Files\WindowsApps\Microsoft.MinecraftUWP_x.x.x__8wekyb3d8bbwe\data\skin_packs\
 

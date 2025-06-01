@@ -6,7 +6,7 @@
 [1.21.81可用！喂饭级自定义披风教程 Minecraft 基岩版 Windows 安卓通用](https://b23.tv/BV1HU73zcEHy)
 
 ## 模板下载
-[Download](./assets/files/custom-template.zip)
+[Download](/assets/files/custom-template.zip)
 ```
 SHA-256: 77213a194788dbadaf84c30e8e1e25ac4fcc32fb8842a08b6348344a0fd8eec6
 ```
