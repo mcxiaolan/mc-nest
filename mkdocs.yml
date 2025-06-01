@@ -49,7 +49,7 @@ plugins:
   - tags
   - search
   - blog:
-      blog_dir: recommend/resource_packs/
+      blog_dir: recommend/
 markdown_extensions:
   - admonition
   - pymdownx.details
