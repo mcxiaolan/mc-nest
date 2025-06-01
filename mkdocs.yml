@@ -9,7 +9,8 @@ nav:
     - 加入服务器: server/join.md
     - 服务器状态: server/status.md
     - 封禁名单: server/banlist.md
-  - 资源推荐: recommend/index.md
+  - 资源推荐:
+    - 基岩版资源包: recommend/category/基岩版资源包/
   - 自定义披风模板: skin-pack-template.md
   - 支持我们: donate.md
 
