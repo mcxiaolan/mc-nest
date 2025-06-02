@@ -12,7 +12,7 @@
     请务必删除此前上传过的**自定义皮肤文件**！  
     可能会遇到内存地址访问问题，最后造成游戏无法正常启动！  
     路径: `%appdata%/games/com.mojang/minecraftpe/custom.png`  
-    Android: `/内部存储/Android/data/com.mojang.minecraftpe/files/games/com.mojang/minecraftpe/` 
+    Android: `/内部存储/Android/data/com.mojang.minecraftpe/files/games/com.mojang/minecraftpe/`  
     Windows: `%localappdata%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftpe\`
 
 ## 下载模板
