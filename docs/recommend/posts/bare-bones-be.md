@@ -25,4 +25,4 @@ Bare Bones 是一款材质包，旨在将您的世界和默认的 Minecraft 材�
 ![Image12](https://media.forgecdn.net/attachments/1155/302/village-png.png)
 
 ## 下载
-https://mcpedl.com/bare-bones-be/
+<https://mcpedl.com/bare-bones-be/>
