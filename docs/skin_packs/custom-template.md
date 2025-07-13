@@ -3,7 +3,7 @@
 此方法可以保留角色创建器的功能。
 
 ## 视频教程
-[1.21.81可用！喂饭级自定义披风教程 Minecraft 基岩版 Windows 安卓通用](https://b23.tv/BV1HU73zcEHy)
+[1.21.81可用！喂饭级自定义披风教程 Minecraft 基岩版 Windows 安卓通用](https://www.bilibili.com/video/BV1HU73zcEHy/?from=search)
 
 ## 注意事项
 
@@ -20,3 +20,5 @@
 ```
 SHA-256: 77213a194788dbadaf84c30e8e1e25ac4fcc32fb8842a08b6348344a0fd8eec6
 ```
+
+修改完后打开市场，搜索 `Young Gru` 或者 `年轻的格鲁` 获得此包即可。
