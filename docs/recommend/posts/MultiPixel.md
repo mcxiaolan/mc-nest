@@ -5,7 +5,7 @@ categories:
 ---
 
 # MultiPixel 乘方像素
-![Cover](https://r2.mcpedl.com/submissions/197725/images/multipixel-texture-pack_2.png)
+![Cover](https://r2.mcpedl.com/submissions/197725/images/multipixel-texture-pack_2.png)  
 MultiPixel 是一款包含全新 32x 纹理的 HD 纹理包，这些纹理你以前从未见过！如果你喜欢在 Minecraft 中改善外观同时保持原汁原味的风格，那就太棒了。
 <!-- more -->
 包创建者：邹辰云飞，保留所有权利。
