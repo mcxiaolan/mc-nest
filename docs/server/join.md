@@ -11,7 +11,7 @@
     Network: NAT IPv4(Nanjing, Jiangsu) & Native IPv6  
     Location: Guangxi Zhuang Autonomous Region
 
-目前服务器使用  [LeviLamina](https://lamina.levimc.org/zh/) 驱动。支持的游戏版本为  `1.21.124`. 
+目前服务器使用  [LeviLamina](https://lamina.levimc.org/zh/) 驱动。支持的游戏版本为  `1.21.132`. 
 
 * 服务器会**记录玩家的几乎所有行为**以及其他事件(包括活塞推动、聊天内容、告示牌内容等),请做某些事时三思而后行。
 * 服务器每天备份以防有人破坏服务器秩序。
