@@ -4,16 +4,13 @@
 恳请各位技术人员手下留情！
 
 ## 本服概览
-!!! note "小服配置"
+!!! note "本服配置"
 
-    CPU: Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz  
-    RAM: 8.0 GB DDR3  
-    Network: NAT IPv4(Nanjing, Jiangsu) & Native IPv6  
-    Location: Guangxi Zhuang Autonomous Region
+    CPU: Intel(R) Core(TM) i9-14900KF CPU @ 3.2GHz  
+    RAM: 8.0 GB    
 
-目前服务器使用  [LeviLamina](https://lamina.levimc.org/zh/) 驱动。支持的游戏版本为  `1.21.132`. 
+目前服务器使用 [Fabric](https://fabricmc.net) 驱动。Java 和基岩版支持的游戏版本分别为  `1.21.11`, `1.21.111 - 26.0`.
 
-* 服务器会**记录玩家的几乎所有行为**以及其他事件(包括活塞推动、聊天内容、告示牌内容等),请做某些事时三思而后行。
 * 服务器每天备份以防有人破坏服务器秩序。
 
 ## 本服宗旨
@@ -49,5 +46,3 @@
 !!! question "为什么使用 QQ 群？"
     能进入 QQ 群说明你拥有一个可以使用的手机号，以此来过滤一些真的入木几。  
     同时 QQ 相比于微信来说群功能更多。
-
-服务器 IP 可以在 [服务器状态](https://mc.ltya.top/server/status/) 找到。
